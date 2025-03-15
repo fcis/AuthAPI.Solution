@@ -1,5 +1,4 @@
 Clean Architecture Authentication Solution - Project Overview
-I've rewritten your authentication solution following clean architecture principles with a clear separation of concerns. Here's a summary of what I've implemented:
 Domain Layer
 
 Core business entities and value objects
